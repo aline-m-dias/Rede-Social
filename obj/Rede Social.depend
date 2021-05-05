@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1614121563 source:c:\users\aline\onedrive\documentos\aeds\rede social\main.c
+	<stdio.h>
+	<stdlib.h>
+	"redesocial.h"
+	"interface.h"
+	"amizade.h"
+	"exercicios.h"
+	<locale.h>
+
+1613944556 c:\users\aline\onedrive\documentos\aeds\rede social\redesocial.h
+	<stdio.h>
+	<string.h>
+
+1613859246 source:c:\users\aline\onedrive\documentos\aeds\rede social\redesocial.c
+	<stdio.h>
+	<Stdlib.h>
+	"redesocial.h"
+	<string.h>
+
+1613859205 c:\users\aline\onedrive\documentos\aeds\rede social\interface.h
+	<stdio.h>
+	<stdlib.h>
+	"redesocial.h"
+
+1613859205 c:\users\aline\onedrive\documentos\aeds\rede social\amizade.h
+	<stdio.h>
+	<stdlib.h>
+	"redesocial.h"
+
+1613952518 source:c:\users\aline\onedrive\documentos\aeds\rede social\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	"exercicios.h"
+
+1613859205 source:c:\users\aline\onedrive\documentos\aeds\rede social\amizade.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1613859205 c:\users\aline\onedrive\documentos\aeds\rede social\exercicios.h
+
+1613945429 source:c:\users\aline\onedrive\documentos\aeds\rede social\exercicio.c
+	<stdio.h>
+	<stdlib.h>
+	"redesocial.h"
+	"interface.h"
+
